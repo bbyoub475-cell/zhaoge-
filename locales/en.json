@@ -1,0 +1,238 @@
+{
+  "brand": {
+    "name": "Nimbus Tech",
+    "tagline": "Cloud infrastructure that scales with your ambition."
+  },
+  "lang": {
+    "zh": "中文",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "cta": "Get Started"
+  },
+  "home": {
+    "hero": {
+      "badge": "Trusted by 200+ growing engineering teams",
+      "title": "Build, ship, and scale on a cloud that just works",
+      "subtitle": "Nimbus Tech gives engineering teams the infrastructure, automation, and insight to move faster — without the operational overhead.",
+      "ctaPrimary": "Get Started",
+      "ctaSecondary": "Talk to Sales"
+    },
+    "advantages": {
+      "title": "Why teams choose Nimbus",
+      "subtitle": "Everything you need to run modern applications, designed to stay out of your way.",
+      "items": [
+        { "title": "Lightning Performance", "desc": "Globally distributed compute keeps your apps fast for every user, everywhere." },
+        { "title": "Enterprise Security", "desc": "Encryption by default, fine-grained access control, and continuous compliance." },
+        { "title": "Global Edge Network", "desc": "35 regions and hundreds of edge locations put your workloads close to customers." },
+        { "title": "24/7 Expert Support", "desc": "Real engineers, not scripts, ready to help whenever you need them." }
+      ]
+    },
+    "services": {
+      "title": "A complete platform",
+      "subtitle": "From the first deploy to global scale, Nimbus covers the full stack.",
+      "items": [
+        { "title": "Cloud Hosting", "desc": "Spin up reliable compute in seconds and scale automatically with demand." },
+        { "title": "Managed Databases", "desc": "Fully managed, automatically backed-up databases with one-click scaling." },
+        { "title": "DevOps Automation", "desc": "Ship with confidence using built-in CI/CD pipelines and infrastructure as code." },
+        { "title": "Observability", "desc": "Metrics, logs, and traces in one place so you always know what's happening." }
+      ],
+      "cta": "Explore all services"
+    },
+    "solutions": {
+      "title": "Built for your industry",
+      "subtitle": "Tailored solutions for the teams pushing technology forward.",
+      "items": [
+        { "title": "Startups", "desc": "Launch fast and scale without rewriting your stack." },
+        { "title": "E-commerce", "desc": "Handle traffic spikes and protect every transaction." },
+        { "title": "Fintech", "desc": "Compliance-ready infrastructure with audit-grade security." },
+        { "title": "AI & Data", "desc": "Train, deploy, and serve models on high-performance compute." }
+      ],
+      "cta": "See all solutions"
+    },
+    "stats": {
+      "title": "Proven at scale",
+      "items": [
+        { "value": "99.99%", "label": "Guaranteed uptime" },
+        { "value": "200+", "label": "Customers worldwide" },
+        { "value": "35", "label": "Global regions" },
+        { "value": "<50ms", "label": "Average latency" }
+      ]
+    },
+    "showcase": {
+      "title": "Teams that build on Nimbus",
+      "subtitle": "Innovative companies of every size trust our platform to power their products."
+    },
+    "cta": {
+      "title": "Ready to build something great?",
+      "subtitle": "Start free today, or talk to our team about your needs.",
+      "primary": "Get Started",
+      "secondary": "Contact Us"
+    }
+  },
+  "about": {
+    "header": {
+      "title": "About Nimbus Tech",
+      "subtitle": "We're on a mission to make world-class cloud infrastructure accessible to every team."
+    },
+    "intro": {
+      "title": "Engineering a simpler cloud",
+      "body": "Nimbus Tech started with a simple frustration: building great products is hard enough without fighting your infrastructure. So we set out to create a platform that handles the complexity for you — reliable, secure, and genuinely pleasant to use. Today, teams in over 35 regions run their most important workloads on Nimbus."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "body": "Give every team the power of enterprise-grade infrastructure, without the enterprise-grade complexity."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "body": "A world where shipping software is fast, safe, and accessible to anyone with an idea."
+    },
+    "values": {
+      "title": "What we believe",
+      "items": [
+        { "title": "Customer obsession", "desc": "Every decision starts with the people who build on us." },
+        { "title": "Radical simplicity", "desc": "We remove complexity so you can focus on what matters." },
+        { "title": "Earned trust", "desc": "Security and reliability are promises, not features." },
+        { "title": "Keep improving", "desc": "We ship better every single day." }
+      ]
+    },
+    "timeline": {
+      "title": "Our journey",
+      "items": [
+        { "year": "2019", "title": "Founded", "desc": "Three engineers set out to fix cloud complexity." },
+        { "year": "2021", "title": "Series A", "desc": "Raised funding to expand the platform globally." },
+        { "year": "2023", "title": "35 regions", "desc": "Reached customers across six continents." },
+        { "year": "2025", "title": "200+ customers", "desc": "Trusted by teams from startups to enterprises." }
+      ]
+    },
+    "stats": {
+      "items": [
+        { "value": "2019", "label": "Founded" },
+        { "value": "120+", "label": "Team members" },
+        { "value": "35", "label": "Regions" },
+        { "value": "200+", "label": "Customers" }
+      ]
+    }
+  },
+  "services": {
+    "header": {
+      "title": "Services",
+      "subtitle": "A full-stack platform with everything you need to build, run, and scale."
+    },
+    "items": [
+      {
+        "title": "Cloud Hosting",
+        "desc": "Reliable, auto-scaling compute that grows with your traffic. Deploy in seconds and never worry about capacity again.",
+        "features": ["Auto-scaling", "Zero-downtime deploys", "Global load balancing"]
+      },
+      {
+        "title": "Managed Databases",
+        "desc": "Fully managed SQL and NoSQL databases with automated backups, replication, and effortless scaling.",
+        "features": ["Automated backups", "High availability", "One-click scaling"]
+      },
+      {
+        "title": "DevOps Automation",
+        "desc": "Built-in CI/CD pipelines and infrastructure as code so your team ships faster and safer.",
+        "features": ["CI/CD pipelines", "Infrastructure as code", "Preview environments"]
+      },
+      {
+        "title": "Observability",
+        "desc": "Unified metrics, logs, and traces with smart alerts so you catch issues before your users do.",
+        "features": ["Real-time metrics", "Centralized logs", "Smart alerts"]
+      },
+      {
+        "title": "Edge Delivery",
+        "desc": "Cache and serve content from hundreds of edge locations for instant loads anywhere on earth.",
+        "features": ["Global CDN", "Smart caching", "DDoS protection"]
+      },
+      {
+        "title": "Identity & Access",
+        "desc": "Secure your platform with single sign-on, role-based access control, and full audit logging.",
+        "features": ["Single sign-on", "Role-based access", "Audit logs"]
+      }
+    ]
+  },
+  "solutions": {
+    "header": {
+      "title": "Solutions",
+      "subtitle": "Purpose-built solutions for the industries shaping tomorrow."
+    },
+    "items": [
+      {
+        "title": "Startups",
+        "desc": "Move fast without technical debt. Launch your MVP today and scale to millions of users without re-architecting — all on infrastructure that grows with you.",
+        "points": ["Generous free tier to start", "Scale without rewrites", "Hands-on onboarding support"]
+      },
+      {
+        "title": "E-commerce",
+        "desc": "Keep your storefront fast and online, even during your biggest sales. Auto-scaling and global delivery protect both your revenue and your customers.",
+        "points": ["Handle traffic spikes", "Secure payments", "Sub-second page loads"]
+      },
+      {
+        "title": "Fintech",
+        "desc": "Build financial products on infrastructure designed for trust. Compliance-ready controls, encryption everywhere, and audit-grade logging come standard.",
+        "points": ["Compliance ready", "End-to-end encryption", "Full audit trails"]
+      },
+      {
+        "title": "AI & Data",
+        "desc": "Train, deploy, and serve machine learning models on high-performance compute with the storage and pipelines your data team needs.",
+        "points": ["GPU-ready compute", "Scalable data pipelines", "Low-latency inference"]
+      }
+    ]
+  },
+  "contact": {
+    "header": {
+      "title": "Contact Us",
+      "subtitle": "Have a question or ready to get started? We'd love to hear from you."
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Full name",
+      "namePlaceholder": "Jane Doe",
+      "email": "Email address",
+      "emailPlaceholder": "jane@company.com",
+      "company": "Company",
+      "companyPlaceholder": "Your company",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help...",
+      "submit": "Send Message",
+      "success": "Thanks! This is a demo form — your message was not actually sent."
+    },
+    "info": {
+      "title": "Other ways to reach us",
+      "items": [
+        { "label": "Email", "value": "hello@nimbustech.example" },
+        { "label": "Phone", "value": "+1 (555) 010-2024" },
+        { "label": "Office", "value": "100 Cloud Avenue, San Francisco, CA" },
+        { "label": "Hours", "value": "Mon–Fri, 9am–6pm (PT)" }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Cloud infrastructure that scales with your ambition.",
+    "productTitle": "Product",
+    "companyTitle": "Company",
+    "legalTitle": "Legal",
+    "product": [
+      { "label": "Cloud Hosting", "href": "/services" },
+      { "label": "Databases", "href": "/services" },
+      { "label": "Observability", "href": "/services" }
+    ],
+    "company": [
+      { "label": "About", "href": "/about" },
+      { "label": "Solutions", "href": "/solutions" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "legal": [
+      { "label": "Privacy Policy", "href": "#" },
+      { "label": "Terms of Service", "href": "#" }
+    ],
+    "rights": "All rights reserved.",
+    "disclaimer": "This is a fictional demo website built for learning purposes."
+  }
+}
