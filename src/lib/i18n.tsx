@@ -52,8 +52,8 @@ function resolve(dict: unknown, key: string): unknown {
  * 我们会在根布局 layout.tsx 里用它包住整个网站。
  */
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  // 默认英文（这是一个英文版网站）
-  const [locale, setLocaleState] = useState<Locale>("en");
+  // 默认中文（主受众为中文用户，可一键切换英文）
+  const [locale, setLocaleState] = useState<Locale>("zh");
 
   // 首次加载后，读取上次保存的语言选择
   useEffect(() => {

@@ -3,12 +3,12 @@ import SolutionsView from "@/components/solutions/SolutionsView";
 
 /** 解决方案页面 (/solutions)。 */
 export const metadata: Metadata = {
-  title: "Solutions",
+  title: "朝歌案例",
   description:
-    "Purpose-built solutions for startups, e-commerce, fintech, and AI & data teams — all on infrastructure that scales.",
+    "服务领域涵盖食品饮料、日化快消、电商品牌、终端零售等大部分行业。ZhaoGe cases across food & beverage, FMCG, e-commerce, and retail.",
   openGraph: {
-    title: "Nimbus Tech Solutions",
-    description: "Purpose-built solutions for the industries shaping tomorrow.",
+    title: "朝歌案例 — 服务领域",
+    description: "设计涵盖大部分行业，拥有服务行业领先企业的经验。",
   },
 };
 

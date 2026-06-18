@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "Nimbus Tech",
-    "tagline": "Cloud infrastructure that scales with your ambition."
+    "name": "ZhaoGe Packaging Design",
+    "tagline": "A bigger logo builds a bigger brand."
   },
   "lang": {
     "zh": "中文",
@@ -9,230 +9,239 @@
   },
   "nav": {
     "home": "Home",
-    "about": "About",
-    "services": "Services",
-    "solutions": "Solutions",
+    "about": "Advantages",
+    "services": "Method",
+    "solutions": "Cases",
     "contact": "Contact",
-    "cta": "Get Started"
+    "cta": "Free Consultation"
   },
   "home": {
     "hero": {
-      "badge": "Trusted by 200+ growing engineering teams",
-      "title": "Build, ship, and scale on a cloud that just works",
-      "subtitle": "Nimbus Tech gives engineering teams the infrastructure, automation, and insight to move faster — without the operational overhead.",
-      "ctaPrimary": "Get Started",
-      "ctaSecondary": "Talk to Sales"
+      "badge": "17 years of brand expertise · 200+ clients served",
+      "title": "A bigger logo builds a bigger brand",
+      "subtitle": "ZhaoGe masters the inevitable laws of brand communication efficiency, helping brands succeed with fewer detours.",
+      "ctaPrimary": "Free consultation: 4008 927 828",
+      "ctaSecondary": "View our cases",
+      "compare": [
+        { "brand": "Global brands like P&G and Unilever", "value": "≥30%", "label": "logo share of packaging area" },
+        { "brand": "Most domestic brands", "value": "≤5%", "label": "logo share of packaging area" }
+      ]
     },
     "advantages": {
-      "title": "Why teams choose Nimbus",
-      "subtitle": "Everything you need to run modern applications, designed to stay out of your way.",
+      "title": "Four Core Services",
+      "subtitle": "A systematic approach that gives brands shelf advantage and market share.",
       "items": [
-        { "title": "Lightning Performance", "desc": "Globally distributed compute keeps your apps fast for every user, everywhere." },
-        { "title": "Enterprise Security", "desc": "Encryption by default, fine-grained access control, and continuous compliance." },
-        { "title": "Global Edge Network", "desc": "35 regions and hundreds of edge locations put your workloads close to customers." },
-        { "title": "24/7 Expert Support", "desc": "Real engineers, not scripts, ready to help whenever you need them." }
+        { "title": "Packaging Chaos Management", "desc": "A systematic, brand-driven and symbol-driven method to tame packaging chaos and create shelf advantage." },
+        { "title": "ZG Digital Packaging System", "desc": "Built for brands that outsource manufacturing — consistent color across multiple print sites, no more painful proofing." },
+        { "title": "E-commerce Packaging Design", "desc": "Win on the first image, capture traffic instantly, create an unboxing surprise, and keep customers coming back." },
+        { "title": "Retail Promotion Systemization", "desc": "Build brand momentum at retail with systematic promotion and display design." }
       ]
     },
     "services": {
-      "title": "A complete platform",
-      "subtitle": "From the first deploy to global scale, Nimbus covers the full stack.",
+      "title": "The ZhaoGe Method",
+      "subtitle": "Maximize communication efficiency, compound brand equity, and build a moat around your profits.",
       "items": [
-        { "title": "Cloud Hosting", "desc": "Spin up reliable compute in seconds and scale automatically with demand." },
-        { "title": "Managed Databases", "desc": "Fully managed, automatically backed-up databases with one-click scaling." },
-        { "title": "DevOps Automation", "desc": "Ship with confidence using built-in CI/CD pipelines and infrastructure as code." },
-        { "title": "Observability", "desc": "Metrics, logs, and traces in one place so you always know what's happening." }
+        { "title": "ZhaoGe Brand Methodology", "desc": "Maximize communication efficiency, compound brand equity, and build a profit moat." },
+        { "title": "Visual Execution", "desc": "Get the design right — then repeat, repeat, repeat." },
+        { "title": "Brand Strategy Consulting", "desc": "20 years focused on brand communication efficiency, with deep expertise in systematic brand building." }
       ],
-      "cta": "Explore all services"
+      "cta": "Explore the method"
     },
     "solutions": {
-      "title": "Built for your industry",
-      "subtitle": "Tailored solutions for the teams pushing technology forward.",
+      "title": "Industries We Serve",
+      "subtitle": "Our work spans most industries, with experience serving category leaders.",
       "items": [
-        { "title": "Startups", "desc": "Launch fast and scale without rewriting your stack." },
-        { "title": "E-commerce", "desc": "Handle traffic spikes and protect every transaction." },
-        { "title": "Fintech", "desc": "Compliance-ready infrastructure with audit-grade security." },
-        { "title": "AI & Data", "desc": "Train, deploy, and serve models on high-performance compute." }
+        { "title": "Food & Beverage", "desc": "Create shelf recognition and purchase impulse for food and beverage brands." },
+        { "title": "FMCG & Household", "desc": "Build a unique sense of brand scarcity in highly homogeneous categories." },
+        { "title": "E-commerce", "desc": "Craft the hero image and unboxing experience to capture traffic and retain customers." },
+        { "title": "Retail", "desc": "Systematic display and promotion design that amplifies brand momentum at retail." }
       ],
-      "cta": "See all solutions"
+      "cta": "View more cases"
     },
     "stats": {
-      "title": "Proven at scale",
+      "title": "17 years of brand expertise, serving category leaders",
       "items": [
-        { "value": "99.99%", "label": "Guaranteed uptime" },
-        { "value": "200+", "label": "Customers worldwide" },
-        { "value": "35", "label": "Global regions" },
-        { "value": "<50ms", "label": "Average latency" }
+        { "value": "17", "label": "years of expertise" },
+        { "value": "200+", "label": "clients served" },
+        { "value": "2009", "label": "founded" },
+        { "value": "Full-service", "label": "brand design" }
       ]
     },
     "showcase": {
-      "title": "Teams that build on Nimbus",
-      "subtitle": "Innovative companies of every size trust our platform to power their products."
+      "title": "Our Cases",
+      "subtitle": "Over 200 clients served, with proven cases across every service line."
     },
     "cta": {
-      "title": "Ready to build something great?",
-      "subtitle": "Start free today, or talk to our team about your needs.",
-      "primary": "Get Started",
-      "secondary": "Contact Us"
+      "title": "Help your brand succeed with fewer detours",
+      "subtitle": "Scan the code or call us to discuss your brand needs with ZhaoGe.",
+      "primary": "Free consultation: 4008 927 828",
+      "secondary": "Contact ZhaoGe"
     }
   },
   "about": {
     "header": {
-      "title": "About Nimbus Tech",
-      "subtitle": "We're on a mission to make world-class cloud infrastructure accessible to every team."
+      "title": "Our Advantages",
+      "subtitle": "Creating brand scarcity — protecting profit margins in an age of oversupply."
     },
     "intro": {
-      "title": "Engineering a simpler cloud",
-      "body": "Nimbus Tech started with a simple frustration: building great products is hard enough without fighting your infrastructure. So we set out to create a platform that handles the complexity for you — reliable, secure, and genuinely pleasant to use. Today, teams in over 35 regions run their most important workloads on Nimbus."
+      "title": "About ZhaoGe",
+      "body": "Founded in 2009, ZhaoGe Packaging Design has spent over a decade focused on packaging design and full-service brand design. We have served more than 200 clients, studying closely and innovating continuously. Our work covers most industries, with experience serving leading enterprises. Each service line operates as an independent department with clear specialization and proven cases. We deliver end-to-end service — from strategic positioning and packaging design to marketing-guided design and final rollout."
     },
     "mission": {
-      "title": "Our Mission",
-      "body": "Give every team the power of enterprise-grade infrastructure, without the enterprise-grade complexity."
+      "title": "Our Philosophy",
+      "body": "Create brand scarcity. In an age of oversupply, value is not the same as price; without differentiated competition, profit ultimately falls to zero. We design a brand's unique scarcity identity to distinguish it from similar products and protect its profit margin."
     },
     "vision": {
-      "title": "Our Vision",
-      "body": "A world where shipping software is fast, safe, and accessible to anyone with an idea."
+      "title": "What We Pursue",
+      "body": "Build a brand-matrix momentum that generates sustained purchasing power, helping brands succeed with fewer detours, break through efficiently, and capture the market."
     },
     "values": {
-      "title": "What we believe",
+      "title": "What ZhaoGe Stands For",
       "items": [
-        { "title": "Customer obsession", "desc": "Every decision starts with the people who build on us." },
-        { "title": "Radical simplicity", "desc": "We remove complexity so you can focus on what matters." },
-        { "title": "Earned trust", "desc": "Security and reliability are promises, not features." },
-        { "title": "Keep improving", "desc": "We ship better every single day." }
+        { "title": "Create Brand Scarcity", "desc": "Design a unique scarcity identity that makes the brand stand out." },
+        { "title": "Differentiated Identity", "desc": "Distinguish from similar products and avoid price competition." },
+        { "title": "Protect Profit Margins", "desc": "Defend profit through brand value rather than trading price for volume." },
+        { "title": "Brand-Matrix Momentum", "desc": "Systematic building that creates lasting brand momentum and purchasing power." }
       ]
     },
     "timeline": {
-      "title": "Our journey",
+      "title": "Our Journey",
       "items": [
-        { "year": "2019", "title": "Founded", "desc": "Three engineers set out to fix cloud complexity." },
-        { "year": "2021", "title": "Series A", "desc": "Raised funding to expand the platform globally." },
-        { "year": "2023", "title": "35 regions", "desc": "Reached customers across six continents." },
-        { "year": "2025", "title": "200+ customers", "desc": "Trusted by teams from startups to enterprises." }
+        { "year": "2009", "title": "Founded", "desc": "Suzhou ZhaoGe Packaging Design is established, focused on packaging design." },
+        { "year": "17 yrs", "title": "Deep Expertise", "desc": "Continuous focus on packaging and full-service brand design." },
+        { "year": "200+", "title": "Clients Served", "desc": "Deeply served more than 200 clients across most industries." },
+        { "year": "All sectors", "title": "Proven Cases", "desc": "Each service line is specialized, with mature, proven cases." }
       ]
     },
     "stats": {
       "items": [
-        { "value": "2019", "label": "Founded" },
-        { "value": "120+", "label": "Team members" },
-        { "value": "35", "label": "Regions" },
-        { "value": "200+", "label": "Customers" }
+        { "value": "2009", "label": "founded" },
+        { "value": "17", "label": "years of expertise" },
+        { "value": "200+", "label": "clients served" },
+        { "value": "Full-service", "label": "brand design" }
       ]
     }
   },
   "services": {
     "header": {
-      "title": "Services",
-      "subtitle": "A full-stack platform with everything you need to build, run, and scale."
+      "title": "The ZhaoGe Method",
+      "subtitle": "From four core services to methodology — systematically building a moat around your brand's profits."
     },
     "items": [
       {
-        "title": "Cloud Hosting",
-        "desc": "Reliable, auto-scaling compute that grows with your traffic. Deploy in seconds and never worry about capacity again.",
-        "features": ["Auto-scaling", "Zero-downtime deploys", "Global load balancing"]
+        "title": "Packaging Chaos Management",
+        "desc": "A systematic, brand-driven and symbol-driven method to tame packaging chaos and create shelf advantage.",
+        "features": ["Brand system", "Symbolic identity", "Shelf advantage"]
       },
       {
-        "title": "Managed Databases",
-        "desc": "Fully managed SQL and NoSQL databases with automated backups, replication, and effortless scaling.",
-        "features": ["Automated backups", "High availability", "One-click scaling"]
+        "title": "ZG Digital Packaging System",
+        "desc": "Built for brands that outsource manufacturing — consistent color across multiple print sites, no more painful proofing.",
+        "features": ["Consistent printing", "No color deviation", "No proofing hassle"]
       },
       {
-        "title": "DevOps Automation",
-        "desc": "Built-in CI/CD pipelines and infrastructure as code so your team ships faster and safer.",
-        "features": ["CI/CD pipelines", "Infrastructure as code", "Preview environments"]
+        "title": "E-commerce Packaging Design",
+        "desc": "Win on the first image, capture traffic instantly, create an unboxing surprise, and keep customers coming back.",
+        "features": ["Hero-image edge", "Unboxing surprise", "Customer retention"]
       },
       {
-        "title": "Observability",
-        "desc": "Unified metrics, logs, and traces with smart alerts so you catch issues before your users do.",
-        "features": ["Real-time metrics", "Centralized logs", "Smart alerts"]
+        "title": "Retail Promotion Systemization",
+        "desc": "Build brand momentum at retail with systematic promotion and display design.",
+        "features": ["Retail momentum", "Systematic display", "Promotion design"]
       },
       {
-        "title": "Edge Delivery",
-        "desc": "Cache and serve content from hundreds of edge locations for instant loads anywhere on earth.",
-        "features": ["Global CDN", "Smart caching", "DDoS protection"]
+        "title": "ZhaoGe Brand Methodology",
+        "desc": "Maximize communication efficiency, compound brand equity, and build a profit moat.",
+        "features": ["Communication efficiency", "Compounding equity", "Profit moat"]
       },
       {
-        "title": "Identity & Access",
-        "desc": "Secure your platform with single sign-on, role-based access control, and full audit logging.",
-        "features": ["Single sign-on", "Role-based access", "Audit logs"]
+        "title": "Visual Execution",
+        "desc": "Get the design right — then repeat, repeat, repeat.",
+        "features": ["Unified visuals", "Standard rollout", "Consistent reuse"]
+      },
+      {
+        "title": "Brand Strategy Consulting",
+        "desc": "20 years focused on brand communication efficiency, with deep expertise in systematic brand building.",
+        "features": ["Strategic positioning", "Systematic building", "End-to-end advisory"]
       }
     ]
   },
   "solutions": {
     "header": {
-      "title": "Solutions",
-      "subtitle": "Purpose-built solutions for the industries shaping tomorrow."
+      "title": "Our Cases",
+      "subtitle": "Our design work spans most industries — here are ZhaoGe's core service areas."
     },
     "items": [
       {
-        "title": "Startups",
-        "desc": "Move fast without technical debt. Launch your MVP today and scale to millions of users without re-architecting — all on infrastructure that grows with you.",
-        "points": ["Generous free tier to start", "Scale without rewrites", "Hands-on onboarding support"]
+        "title": "Food & Beverage",
+        "desc": "We build shelf recognition and purchase impulse for food and beverage brands, so products are seen and remembered at first glance on a crowded shelf.",
+        "points": ["Shelf recognition", "Purchase impulse", "Category leadership"]
+      },
+      {
+        "title": "FMCG & Household",
+        "desc": "In highly homogeneous FMCG categories, we build a brand's unique scarcity identity to distinguish it from similar products and protect its profit margin.",
+        "points": ["Scarcity identity", "Differentiation", "Profit protection"]
       },
       {
         "title": "E-commerce",
-        "desc": "Keep your storefront fast and online, even during your biggest sales. Auto-scaling and global delivery protect both your revenue and your customers.",
-        "points": ["Handle traffic spikes", "Secure payments", "Sub-second page loads"]
+        "desc": "We craft a winning hero image to capture traffic instantly and an unboxing surprise that turns one-time traffic into repeat customers.",
+        "points": ["Hero-image edge", "Unboxing surprise", "Higher repurchase"]
       },
       {
-        "title": "Fintech",
-        "desc": "Build financial products on infrastructure designed for trust. Compliance-ready controls, encryption everywhere, and audit-grade logging come standard.",
-        "points": ["Compliance ready", "End-to-end encryption", "Full audit trails"]
-      },
-      {
-        "title": "AI & Data",
-        "desc": "Train, deploy, and serve machine learning models on high-performance compute with the storage and pipelines your data team needs.",
-        "points": ["GPU-ready compute", "Scalable data pipelines", "Low-latency inference"]
+        "title": "Retail",
+        "desc": "With systematic display and promotion design, we build brand momentum at retail, giving brands a commanding visual presence in stores.",
+        "points": ["Systematic display", "Promotion design", "Retail momentum"]
       }
     ]
   },
   "contact": {
     "header": {
-      "title": "Contact Us",
-      "subtitle": "Have a question or ready to get started? We'd love to hear from you."
+      "title": "Contact ZhaoGe",
+      "subtitle": "Scan the code or call us to discuss your brand and packaging needs."
     },
     "form": {
-      "title": "Send us a message",
-      "name": "Full name",
-      "namePlaceholder": "Jane Doe",
-      "email": "Email address",
-      "emailPlaceholder": "jane@company.com",
-      "company": "Company",
-      "companyPlaceholder": "Your company",
-      "message": "Message",
-      "messagePlaceholder": "Tell us how we can help...",
-      "submit": "Send Message",
-      "success": "Thanks! This is a demo form — your message was not actually sent."
+      "title": "Send a Message",
+      "name": "Your name",
+      "namePlaceholder": "How should we address you?",
+      "email": "Contact",
+      "emailPlaceholder": "Phone or email",
+      "company": "Company / Brand",
+      "companyPlaceholder": "Your company or brand name",
+      "message": "Your needs",
+      "messagePlaceholder": "Briefly describe what you need...",
+      "submit": "Submit",
+      "success": "Thanks for your message! We'll be in touch soon. (Demo form — not actually sent.)"
     },
     "info": {
-      "title": "Other ways to reach us",
+      "title": "Contact Information",
       "items": [
-        { "label": "Email", "value": "hello@nimbustech.example" },
-        { "label": "Phone", "value": "+1 (555) 010-2024" },
-        { "label": "Office", "value": "100 Cloud Avenue, San Francisco, CA" },
-        { "label": "Hours", "value": "Mon–Fri, 9am–6pm (PT)" }
+        { "label": "Free hotline", "value": "4008 927 828" },
+        { "label": "Phone", "value": "0512-68602422 / 13913154556" },
+        { "label": "WeChat", "value": "13913154556 (same as phone)" },
+        { "label": "Email", "value": "ftera@qq.com" },
+        { "label": "Address", "value": "4F-V01, Shangmei Building, 137 Shihu West Rd, Wuzhong District, Suzhou" }
       ]
     }
   },
   "footer": {
-    "tagline": "Cloud infrastructure that scales with your ambition.",
-    "productTitle": "Product",
-    "companyTitle": "Company",
-    "legalTitle": "Legal",
+    "tagline": "A bigger logo builds a bigger brand. 20 years focused on brand communication efficiency.",
+    "productTitle": "Services",
+    "companyTitle": "About",
+    "legalTitle": "Contact",
     "product": [
-      { "label": "Cloud Hosting", "href": "/services" },
-      { "label": "Databases", "href": "/services" },
-      { "label": "Observability", "href": "/services" }
+      { "label": "Packaging Design", "href": "/services" },
+      { "label": "Full-Service Brand Design", "href": "/services" },
+      { "label": "E-commerce Packaging", "href": "/services" }
     ],
     "company": [
-      { "label": "About", "href": "/about" },
-      { "label": "Solutions", "href": "/solutions" },
-      { "label": "Contact", "href": "/contact" }
+      { "label": "Our Advantages", "href": "/about" },
+      { "label": "Our Cases", "href": "/solutions" },
+      { "label": "Contact Us", "href": "/contact" }
     ],
     "legal": [
-      { "label": "Privacy Policy", "href": "#" },
-      { "label": "Terms of Service", "href": "#" }
+      { "label": "Free consultation: 4008 927 828", "href": "/contact" },
+      { "label": "Email: ftera@qq.com", "href": "/contact" }
     ],
-    "rights": "All rights reserved.",
-    "disclaimer": "This is a fictional demo website built for learning purposes."
+    "rights": "苏ICP备12032329号-2",
+    "disclaimer": "Suzhou ZhaoGe Packaging Design Co., Ltd."
   }
 }

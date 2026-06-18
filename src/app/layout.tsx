@@ -19,30 +19,30 @@ const geistSans = Geist({
 });
 
 // 站点根地址（部署到 Vercel 后可改成真实域名）
-const siteUrl = "https://nimbus-tech.example.com";
+const siteUrl = "https://zhaoge-eta.vercel.app";
 
 // 全站默认 metadata，子页面会各自覆盖 title/description
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Nimbus Tech — Cloud infrastructure that scales with you",
-    template: "%s | Nimbus Tech",
+    default: "朝歌包装设计 ZhaoGe Packaging Design — 大logo，成就大品牌",
+    template: "%s | 朝歌包装设计 ZhaoGe",
   },
   description:
-    "Nimbus Tech gives engineering teams the cloud infrastructure, automation, and insight to build, ship, and scale faster.",
-  keywords: ["cloud", "infrastructure", "devops", "hosting", "platform"],
+    "朝歌包装设计成立于 2009 年，专注包装设计与品牌全案设计，服务 200+ 客户。Founded in 2009, ZhaoGe Packaging Design specializes in packaging and full-service brand design.",
+  keywords: ["包装设计", "品牌设计", "品牌全案", "packaging design", "brand design", "ZhaoGe"],
   openGraph: {
     type: "website",
-    siteName: "Nimbus Tech",
-    title: "Nimbus Tech — Cloud infrastructure that scales with you",
+    siteName: "朝歌包装设计 ZhaoGe Packaging Design",
+    title: "朝歌包装设计 ZhaoGe Packaging Design — 大logo，成就大品牌",
     description:
-      "Build, ship, and scale on a cloud that just works. Infrastructure, automation, and insight for modern teams.",
+      "专注品牌传播效率设计，让品牌成功少走弯路。Brand communication efficiency design that helps brands succeed with fewer detours.",
     url: siteUrl,
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nimbus Tech",
-    description: "Cloud infrastructure that scales with your ambition.",
+    title: "朝歌包装设计 ZhaoGe Packaging Design",
+    description: "大logo，成就大品牌。A bigger logo builds a bigger brand.",
   },
 };
 
@@ -53,7 +53,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="zh"
       data-scroll-behavior="smooth"
       className={`${geistSans.variable} h-full antialiased`}
     >

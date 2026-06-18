@@ -21,6 +21,11 @@ type ValueLabel = { value: string; label: string };
 export default function HomeView() {
   const { t } = useTranslation();
 
+  const compare = t("home.hero.compare") as {
+    brand: string;
+    value: string;
+    label: string;
+  }[];
   const advantages = t("home.advantages.items") as TitleDesc[];
   const services = t("home.services.items") as TitleDesc[];
   const solutions = t("home.solutions.items") as TitleDesc[];
@@ -63,9 +68,28 @@ export default function HomeView() {
               </Link>
             </div>
           </div>
-          {/* 右侧占位图 */}
-          <div className="relative">
-            <Placeholder label="Hero visual" className="aspect-[4/3] w-full" />
+          {/* 右侧：大logo 对比卡片 */}
+          <div className="relative grid gap-4 sm:grid-cols-2 lg:grid-cols-1">
+            {compare.map((c, i) => (
+              <div
+                key={c.brand}
+                className={`rounded-2xl border p-6 shadow-sm ${
+                  i === 0
+                    ? "border-brand-200 bg-brand-50"
+                    : "border-slate-200 bg-white"
+                }`}
+              >
+                <p className="text-sm font-medium text-slate-600">{c.brand}</p>
+                <p
+                  className={`mt-2 text-4xl font-extrabold ${
+                    i === 0 ? "text-brand-600" : "text-slate-400"
+                  }`}
+                >
+                  {c.value}
+                </p>
+                <p className="mt-1 text-sm text-slate-500">{c.label}</p>
+              </div>
+            ))}
           </div>
         </Container>
       </section>
